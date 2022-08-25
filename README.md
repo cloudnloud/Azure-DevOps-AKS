@@ -5,6 +5,8 @@
 
 ![linkdupdate](https://user-images.githubusercontent.com/72698112/186723867-fd0bb178-62b8-4ce9-b3ba-116841825590.png)
 
+#### Cloudnloud Tech community was started by Vijayabalan Balakrishnan a cancer survivor since 2011. He has been helping the cancer children and the tech community for the past 2 decades to loud from their own confidence. Officialy, registered as Pvt.Ltd on Jan-2015, the main motto is to help and support cancer children from its revenue.Today cloudnloud is living that dream with 7000 plus cancer survivors across the globe.If you really want to join us along with your massive growth feel free to reach us in whats app +91 8939984529
+
 Past 11 years Cloudnloud Tech Community helped many IT professionals to learn niche technologies with real-time use cases in their own lab. We strongly believe the more we fail in our own lab, the more we are confident in the real-time scenarios.
 
 ### Skills: 
