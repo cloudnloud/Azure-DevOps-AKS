@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Yasmin Shaik
-### Sr.Infra Developer, Cognizant Australia & Azure Evangelist, Cloudnloud Tech community
+### Sr.Infra Developer, Cognizant Australia & Azure Evangelist, Cloudnloud Tech community Australia Ambassador
 
 #### Cloudnloud Tech Community
 
-![Learn-Grow-Invite your friends](linkdupdate.png)
+![linkdupdate](https://user-images.githubusercontent.com/72698112/186723867-fd0bb178-62b8-4ce9-b3ba-116841825590.png)
 
 Past 11 years Cloudnloud Tech Community helped many IT professionals to learn niche technologies with real-time use cases in their own lab. We strongly believe the more we fail in our own lab, the more we are confident in the real-time scenarios.
 
