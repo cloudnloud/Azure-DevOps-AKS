@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: test
+spec:
+  replicas: #replicaNo#
+  selector:
+    matchLabels:
+      app: test
+  template:
+    metadata:
+      labels:
+        app: test
+    spec:
+      containers:
+        - name: test
+          image: k8sexamplesacr.azurecr.io/test:latest
+          ports:
+          - containerPort: 80
