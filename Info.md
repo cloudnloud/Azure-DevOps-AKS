@@ -1,6 +1,11 @@
 # Azure-DevOps-AKS
 
 This is the repo which contains sample dotnet code along with docker file and simple kubernetes deployment yaml files to start with Azure DevOps.
+If you are a first time Azure DevOps user, kindly fill the below form for getting Azure DevOps Parallelism for able to run azure pipelines.
+
+https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR63mUWPlq7NEsFZhkyH8jChUMlM3QzdDMFZOMkVBWU5BWFM3SDI2QlRBSC4u
+
+Please note access will be granted in 2 business days from the day of request.
 
 ### Step  1:
 Create project in Azure DevOps under your organization
